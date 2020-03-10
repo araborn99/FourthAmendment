@@ -9,11 +9,11 @@
 #include <stdlib.h>
 //variables
 //katz - if katz applies for search
-//warrant - if warrant issued; 1 = no 2 = yes
-//warrant_stand - valid or invalid 1 = valid 2 = invalid
-//search - type of search 1 = Terry 2 = Incident to Arrest
+//warrant - if warrant issued
+//warrant_stand - valid or invalid 
+//search - type of search 
 //reach - if search was within reach
-//space - validly in a space 1 = Yes 2 = No
+//space - validly in a space 
 //exception - exclusionary rule exceptions
 //herring - abuse of exception
 
