@@ -1,8 +1,7 @@
 /******************************************************************************
 
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
+                            Made by Alex Raborn
+                Dr. Linken shows a flow chart, I create a program.
 
 *******************************************************************************/
 
